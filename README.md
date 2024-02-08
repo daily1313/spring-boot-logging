@@ -141,7 +141,7 @@
 ### Output Log
 
 - %-5level %d{yy-MM-dd HH:mm:ss}[%thread][%logger{0}:%line] - %msg%n
-- DEBUG 24-02-08 17:17:24[http-nio-8080-exec-1][LoggingController:16] - %msg%n
+- DEBUG 24-02-08 17:17:24[http-nio-8080-exec-1][LoggingController:16] - A DEBUG Message
 
 #### Console
 <img width="600" alt="스크린샷 2024-02-08 오후 5 20 56" src="https://github.com/daily1313/spring-boot-logging/assets/88074556/a94565a6-43f6-49fb-bc70-ac3575e58458">
